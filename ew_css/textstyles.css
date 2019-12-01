@@ -1,31 +1,51 @@
-.Style1{font-family: 'Montserrat-Bold','Montserrat';
-font-size: 48px; 
+.Style1{font-family: 'Georgia-Bold','Georgia',serif;
+font-size: 40px; 
 font-weight:700; 
-color: #FEFFFF;
+color: #06607C;
 word-wrap: break-word;}
-.Style2{font-family: 'Montserrat-Bold','Montserrat';
-font-size: 14px; 
+.Style2{font-family: 'Georgia-Bold','Georgia',serif;
+font-size: 40px; 
 font-weight:700; 
-color: #FEFFFF;
 word-wrap: break-word;}
 .Style3{font-family: 'Montserrat-Bold','Montserrat';
 font-size: 14px; 
 font-weight:700; 
+color: #FEFFFF;
+letter-spacing: 0.15em; 
+word-wrap: break-word;}
+.Style4{font-family: 'Montserrat-Bold','Montserrat';
+font-size: 20px; 
+font-weight:700; 
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style5{font-family: 'Montserrat-Bold','Montserrat';
+font-size: 14px; 
+font-weight:700; 
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style6{font-family: 'Montserrat-Bold','Montserrat';
+font-size: 14px; 
+font-weight:700; 
 margin:0;
 color: #FEFFFF;
 word-wrap: break-word;}
-.Style4{font-family: 'Montserrat-Bold','Montserrat';
+.Style7{font-family: 'Montserrat-Bold','Montserrat';
 font-size: 14px; 
 font-weight:700; 
 color: #797979;
 word-wrap: break-word;}
-.Style5{font-family: 'Georgia',serif;
+.Style8{font-family: 'Georgia',serif;
 font-size: 18px; 
 color: #FEFFFF;
 word-wrap: break-word;}
-.Style6{font-family: 'Helvetica',sans-serif;
+.Style9{font-family: 'Helvetica',sans-serif;
 font-size: 12px; 
 margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style10{font-family: 'Montserrat-Bold','Montserrat';
+font-size: 48px; 
+font-weight:700; 
 color: #FEFFFF;
 word-wrap: break-word;}
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
