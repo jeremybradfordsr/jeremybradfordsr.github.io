@@ -32,5 +32,36 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
-.animhidden{opacity: 0}
-.animvisible{opacity: 1}
+.para11{font-size: 0; text-align:center; margin-top:0px; margin-bottom:0px;}
+.Style12{font-family:  'Montserrat-Bold', 'Montserrat' ;
+ font-size: 48px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para13{font-size: 0; text-align:left; margin-top:0px; margin-bottom:11px;}
+.Style14{font-family:  'Montserrat-Bold', 'Montserrat' ;
+ font-size: 14px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style15{font-family:  'Montserrat-Bold', 'Montserrat' ;
+ font-size: 14px; 
+ font-weight:700; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para16{font-size: 0; text-align:left; margin-bottom:11px; margin-top:0px;}
+.Style17{font-family:  'Montserrat-Bold', 'Montserrat' ;
+ font-size: 14px; 
+ font-weight:700; 
+ color: #797979;
+ word-wrap: break-word;}
+.Style18{font-family:  'Georgia' ,serif ;
+ font-size: 18px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style19{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
